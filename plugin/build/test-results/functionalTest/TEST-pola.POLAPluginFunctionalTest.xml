@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pola.POLAPluginFunctionalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-14T10:40:33" hostname="LAPTOP-04S1TAI7" time="19.232">
+  <properties/>
+  <testcase name="can run task()" classname="pola.POLAPluginFunctionalTest" time="19.232"/>
+  <system-out><![CDATA[
+> Task :greeting
+Hello from plugin 'pola.greeting'
+
+BUILD SUCCESSFUL in 16s
+1 actionable task: 1 executed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

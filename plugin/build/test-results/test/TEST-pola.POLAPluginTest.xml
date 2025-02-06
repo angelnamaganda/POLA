@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pola.POLAPluginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-14T10:41:02" hostname="LAPTOP-04S1TAI7" time="3.29">
+  <properties/>
+  <testcase name="plugin registers task()" classname="pola.POLAPluginTest" time="3.29"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
